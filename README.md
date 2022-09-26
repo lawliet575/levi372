@@ -1,13 +1,13 @@
 <h1 align="center">Hey👋 Whats up?, Nice to see a person visiting here yet again, I'm IKHLAS AHMED KHAN</h1>
 <h3 align="center">A newbie entering into the land of programming🔣💻</h3>
-<img align="right" alt="Coding" width="500" src="https://wallpapercave.com/dwp1x/EyaJ8qi.jpg">
+<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/dwp1x/EyaJ8qi.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi372&label=Profile%20views&color=0e75b6&style=flat" alt="levi372" /> </p>
 
-- 📘 I’m currently studying at **IBA University Karachi** <img align="centre" alt="Coding" width="40" src="https://upload.wikimedia.org/wikipedia/en/1/1e/Institute_of_Business_Administration%2C_Karachi_%28logo%29.png"> doing my bachelors in Computer-Science
+- 📘 I’m currently studying at **IBA University Karachi** <img align="centre" alt="Coding" width="30" src="https://upload.wikimedia.org/wikipedia/en/1/1e/Institute_of_Business_Administration%2C_Karachi_%28logo%29.png"> doing my bachelors in Computer-Science
 - ⚡ Fun fact: **My favourite game is FIFA and I gracefully challenge you to a game🎮😄**
-<img align="centre" alt="Coding" width="350" src="https://free4kwallpapers.com/uploads/wallpaper/a-for-programmers-wallpaper-1024x768-wallpaper.jpg">
+<img align="centre" alt="Coding" width="300" src="https://free4kwallpapers.com/uploads/wallpaper/a-for-programmers-wallpaper-1024x768-wallpaper.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
